@@ -1,0 +1,13 @@
+{
+    "name": "vendor/autoload.php",
+    "description": "inventory_db",
+    "type": "project",
+    "authors": [
+        {
+            "name": "unp"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "1.25"
+    }
+}
